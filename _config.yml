@@ -1,7 +1,7 @@
 # Setup
 title:        Theory Division Wiki
 tagline:      A wiki for the Theory Division!
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 baseurl:      "/"
 paginate:     1
 locale:       "en"
