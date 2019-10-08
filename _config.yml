@@ -21,9 +21,6 @@ collections:
 # Gems
 gems:
   - jekyll-paginate
-  
-plugins:
-  - jekyll-include-cache
 
 #Others
 markdown: kramdown
