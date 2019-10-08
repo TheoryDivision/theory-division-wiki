@@ -5,4 +5,4 @@ gem 'jekyll'
 gem 'jekyll-paginate'
 gem 'kramdown'
 gem 'pygments.rb'
-gem 'minimal-mistakes-jekyll'
+gem "github-pages", group: :jekyll_plugins
