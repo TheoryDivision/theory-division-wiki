@@ -1,14 +1,14 @@
 # Setup
-title:        Public Wiki
-tagline:      A public wiki for the devolab!
-baseurl:      "/public-wiki"
+title:        Theory Division Wiki
+tagline:      A wiki for the Theory Division!
+baseurl:      "/"
 paginate:     1
 locale:       "en"
 permalink:    /:title/
 # About/contact
 author:
   name:       Author name
-  url:        http://yourhomepage.com
+  url:        https://www.lerner.ccf.org/thor/scott/lab/
 
 # Define non-post collections
 collections:
