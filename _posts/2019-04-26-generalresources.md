@@ -15,4 +15,4 @@ categories: main
     - [Jake (PI)](../assets/Biosketch_SCOTT_2019.pdf)
     - [Emily (post-doc)](../assets/biosketch_dolson.pdf)
     - [Jessica (Phd Student)](../assets/biosketch_scarborough.pdf)
-    - [Mina (Lab Tech)](../assets/biosketch_dinh.pdf)
+    - [Mina (Lab Tech)](../assets/biosketch_dinh.docx)
